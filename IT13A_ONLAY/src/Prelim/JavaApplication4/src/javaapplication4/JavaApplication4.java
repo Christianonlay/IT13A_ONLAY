@@ -28,7 +28,7 @@ public class JavaApplication4 {
 
       
             System.out.print(" The greatest number is :" + greatest);
-            input.close();
+            
     }
     
 }
